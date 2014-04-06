@@ -1,4 +1,4 @@
-xiSmartPointer
+xiCppLib
 ==============
 
-Smart pointer and OS header file
+Collection of useful C++ libraries
